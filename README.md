@@ -12,4 +12,4 @@
 - Laravel
 - React Framework
 
-Go -->  [a link](https://aodudev.github.io/monPortfolio/dist/)
+Go -->  [Portfolio page](https://aodudev.github.io/monPortfolio/dist/)
